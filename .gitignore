@@ -1,0 +1,11 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+bin/
+data/
+cmake_install.cmake
+thirdparty/
+lib/
+*.zip
+*.o
+.DS_Store
